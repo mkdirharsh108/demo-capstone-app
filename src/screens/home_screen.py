@@ -18,7 +18,7 @@ def home_screen():
                 <h2 style="font-size: 1.35rem; font-weight: 700; color: #1C1E21; margin: 0.2rem 0 0.15rem 0;">I'm a Student</h2>
                 <p style="color: #65676B; font-size: 0.82rem; margin: 0 0 0.35rem 0;">Fast biometric check-in & attendance tracking</p>
                 <div class="mascot-halo">
-                    <img src="https://i.ibb.co/844D9Lrt/mascot-student.png" style="height: 72px; width: auto;" alt="Student Mascot" />
+                    <img src="https://static.vecteezy.com/system/resources/previews/045/546/305/non_2x/boy-wear-graduation-hat-and-holding-book-3d-mascot-free-png.png" style="height: 72px; width: auto;" alt="Student Mascot" />
                 </div>
                 <div class="feature-pill-list">
                     <span class="feature-pill">⚡ FaceID Check-in</span>
